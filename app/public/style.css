@@ -1,0 +1,10 @@
+
+.header {
+    display: flex;
+    justify-content: center;
+}
+
+.far {
+    margin-right: 5px;
+}
+
